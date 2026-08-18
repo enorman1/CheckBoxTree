@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Eric Normandin
+Main-Class: CheckBoxTree
+Class-Path: CheckBoxTree.jar
+
